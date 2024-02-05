@@ -52,6 +52,15 @@ This is a Python project developed by hu245334. This is the solution project for
 |   | [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)  | 🟢 |
 |   | [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode.cn/problems/kLl5u1/)                    | 🟢 |
 
+## 二叉树基础
+
+|   | 力扣                                                                                  | 难度 |
+|---|-------------------------------------------------------------------------------------|----|
+| ✔ | [104. 二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/)         | 🟢 |
+|   | [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)       | 🟢 |
+|   | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)                | 🟢 |
+|   | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | 🟢 |
+
 ## 题解代码
 
 * [Python](https://www.python.org/) - The programming language used.
