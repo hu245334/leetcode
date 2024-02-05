@@ -31,12 +31,12 @@ This is a Python project developed by hu245334. This is the solution project for
 
 ## 翻转链表
 
-|     | 力扣                                                                          | 难度 |
-|:---:|:----------------------------------------------------------------------------|:--:|
-|     | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)              | 🟢 |
-|     | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)         | 🟠 |
-|     | [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | 🟢 |
-|     | [剑指 Offer II 024. 反转链表](https://leetcode.cn/problems/UHnkqh/)               | 🟢 |
+|   | 力扣                                                                          | 难度 |
+|:-:|:----------------------------------------------------------------------------|:--:|
+| ✔ | [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)              | 🟢 |
+|   | [92. 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii/)         | 🟠 |
+|   | [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | 🟢 |
+|   | [剑指 Offer II 024. 反转链表](https://leetcode.cn/problems/UHnkqh/)               | 🟢 |
 
 ## 双指针数组问题
 
