@@ -2,12 +2,18 @@
 
 This is a Python project developed by hu245334. This is the solution project for LeetCode.
 
+# 经典算法
+
 ## 二分查找
 
 |   | 力扣                                                                                                                 | 难度 |
 |:-:|--------------------------------------------------------------------------------------------------------------------|:--:|
 | ✔ | [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟠 |
 | ✔ | [704. 二分查找](https://leetcode.cn/problems/binary-search/)                                                           | 🟢 |
+
+***
+
+# 链表
 
 ## 双指针解决链表问题
 
@@ -38,6 +44,16 @@ This is a Python project developed by hu245334. This is the solution project for
 |   | [剑指 Offer 24. 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/) | 🟢 |
 |   | [剑指 Offer II 024. 反转链表](https://leetcode.cn/problems/UHnkqh/)               | 🟢 |
 
+## K 个一组反转链表
+
+|   | 力扣                                                                      | 难度 |
+|---|-------------------------------------------------------------------------|:--:|
+|   | [25. K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group/) | 🔴 |
+
+***
+
+# 数组
+
 ## 双指针数组问题
 
 |   | 力扣                                                                                      | 难度 |
@@ -52,6 +68,18 @@ This is a Python project developed by hu245334. This is the solution project for
 |   | [剑指 Offer 57. 和为s的两个数字](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)  | 🟢 |
 |   | [剑指 Offer II 006. 排序数组中两个数字之和](https://leetcode.cn/problems/kLl5u1/)                    | 🟢 |
 
+## 前缀和数组
+
+|   | 力扣                                                                                 | 难度 |
+|---|------------------------------------------------------------------------------------|:--:|
+|   | [303. 区域和检索 - 数组不可变](https://leetcode.cn/problems/range-sum-query-immutable/)      | 🟢 |
+|   | [304. 二维区域和检索 - 矩阵不可变](https://leetcode.cn/problems/range-sum-query-2d-immutable/) | 🟠 |
+|   | [剑指 Offer II 013. 二维子矩阵的和](https://leetcode.cn/problems/O4NDxx/)                   | 🟠 |
+
+***
+
+# 树
+
 ## 二叉树基础
 
 |   | 力扣                                                                                  | 难度 |
@@ -60,6 +88,18 @@ This is a Python project developed by hu245334. This is the solution project for
 |   | [144. 二叉树的前序遍历](https://leetcode.cn/problems/binary-tree-preorder-traversal/)       | 🟢 |
 |   | [543. 二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/)                | 🟢 |
 |   | [剑指 Offer 55 - I. 二叉树的深度](https://leetcode.cn/problems/er-cha-shu-de-shen-du-lcof/) | 🟢 |
+
+***
+
+# 动态规划
+
+## 动态规划基础
+
+|   | 力扣                                                               | 难度 |
+|---|------------------------------------------------------------------|----|
+|   | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)           | 🟠 |
+|   | [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/)     | 🟢 |
+|   | [剑指 Offer II 103. 最少的硬币数目](https://leetcode.cn/problems/gaM7Ch/) | 🟠 |
 
 ## 题解代码
 
