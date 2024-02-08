@@ -97,11 +97,12 @@ This is a Python project developed by hu245334. This is the solution project for
 
 ## 动态规划基础
 
-|   | 力扣                                                               | 难度 |
-|---|------------------------------------------------------------------|----|
-| ✔ | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)           | 🟠 |
-| ✔ | [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/)     | 🟢 |
-|   | [剑指 Offer II 103. 最少的硬币数目](https://leetcode.cn/problems/gaM7Ch/) | 🟠 |
+|   | 力扣                                                                     | 难度 |
+|---|------------------------------------------------------------------------|----|
+| ✔ | [322. 零钱兑换](https://leetcode.cn/problems/coin-change/)                 | 🟠 |
+| ✔ | [509. 斐波那契数](https://leetcode.cn/problems/fibonacci-number/)           | 🟢 |
+| ✔ | [931. 下降路径最小和](https://leetcode.cn/problems/minimum-falling-path-sum/) | 🟠 |
+|   | [剑指 Offer II 103. 最少的硬币数目](https://leetcode.cn/problems/gaM7Ch/)       | 🟠 |
 
 # 最长递增子序列
 
