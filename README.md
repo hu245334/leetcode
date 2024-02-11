@@ -2,7 +2,7 @@
 
 This is a Python project developed by hu245334. This is the solution project for LeetCode.
 
----
+***
 
 # 经典算法
 
@@ -113,18 +113,20 @@ This is a Python project developed by hu245334. This is the solution project for
 | ✔ | [300. 最长递增子序列](https://leetcode.cn/problems/longest-increasing-subsequence/) | 🟠 |
 |   | [354. 俄罗斯套娃信封问题](https://leetcode.cn/problems/russian-doll-envelopes/)       | 🔴 |
 
----
+## 经典动态规划
 
-## 题解代码
+|   | 力扣                                                           | 难度 |
+|---|--------------------------------------------------------------|----|
+| ✔ | [72. 编辑距离](https://leetcode.cn/problems/edit-distance/)      | 🟠 |
+| ✔ | [53. 最大子数组和](https://leetcode.cn/problems/maximum-subarray/) | 🟠 |
 
-* [Python](https://www.python.org/) - The programming language used.
+***
 
-## Authors
+# Authors
 
 * **hu245334** - *GitHub LeetCode* - [hu245334](https://github.com/hu245334/leetcode)
 * **EliHill** - *力扣* - [EliHill](https://leetcode.cn/u/elihill/)
 
-## License
+# License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
